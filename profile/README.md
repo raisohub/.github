@@ -11,7 +11,7 @@ RAISO is Northwestern's student organization dedicated to exploring and promotin
 
 ## 🌟 Our Programs
 
-### 🗣️ Education & Discussions
+### 🗣️ Education Discussions
 - Weekly catered discussions on "AI and X" topics
 - Exploring AI's intersection with:
   - Art
@@ -20,7 +20,7 @@ RAISO is Northwestern's student organization dedicated to exploring and promotin
   - Healthcare
   - Social Media
 
-### 💡 Speakers & Events
+### 💡 Events & Partnerships
 - Platform for AI researchers, designers, and artists
 - Engaging discussions on current and future state of AI
 - Regular events featuring industry experts and thought leaders
